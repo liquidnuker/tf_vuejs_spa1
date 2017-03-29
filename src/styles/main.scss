@@ -13,6 +13,8 @@
 
 @import "vendor/spinkit";
 
+@import "pages/home";
+
 // show the active breakpoint (_mq.scss)
 // ==================================================/
 @include mq-show-breakpoints;
